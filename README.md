@@ -4,6 +4,14 @@
 
 Nightdrive wraps the Hugging Face `text-to-audio` pipeline in a friendly CLI and Tkinter GUI. You get streamlined model caching, streaming writes for ultra-long tracks, prompt history, built-in playback, tempo presets, and loop-ready exports—no external services required.
 
+
+
+<img width="2160" height="1367" alt="nightdrive" src="https://github.com/user-attachments/assets/96cd3430-34cb-4c30-b1c2-014149fcfd8f" />
+
+
+
+
+
 ## Highlights
 
 - **All-local generation** – Runs on CPU or GPU using open MusicGen checkpoints (`facebook/musicgen-*`) or any custom Hugging Face ID.
