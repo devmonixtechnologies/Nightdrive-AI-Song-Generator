@@ -39,7 +39,7 @@ Nightdrive wraps the Hugging Face `text-to-audio` pipeline in a friendly CLI and
 - Optional playback/tooling dependencies:
   - [`pydub`](https://github.com/jiaaro/pydub) for MP3 export
   - [`simpleaudio`](https://simpleaudio.readthedocs.io/) for GUI playback (Linux users may need `sudo apt install libasound2-dev` before installing)
-  - Please note that, you need to download a 6.5GB of file contains all the models (it will start to auto download at the first prompt. One time installation! after that all your models works perfectly!!!)
+  - Please note that, you need to download a 6.5GB of file contains all the models (it will start to auto download at the first prompt. One time installation! after that all models works perfectly!!!)
 
 ### Environment Setup
 
